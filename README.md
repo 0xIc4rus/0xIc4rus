@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**0xIc4rus/0xIc4rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 0xIc4rus!
 
-Here are some ideas to get you started:
+🔹 Penetration Tester | Ethical Hacker | Security Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Focused on offensive security, exploit development, and red team operations
+
+🔹 Passionate about breaking systems to build them stronger
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+⚔️ Skills & Tools
+
+💻 Languages: Python, Bash, PowerShell
+
+🧰 Offensive Tools: Metasploit, Burp Suite, Nmap, CME, BloodHound
+
+🧠 Domains: Web Exploitation, Network Penetration, Privilege Escalation, Post-Exploitation
+
+🕵️‍♂️ Research Interests: IoT/embedded device security, Malware analysis, open-source intelligence research
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+🧠 Stats
+
+> status: active  
+
+> location: 127.0.0.1  
+
+> threat_level: low (for now)  
+
+> visibility: off
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+🕳️ Contact
+
+If you know, you know.
+(No public handles or links — for OPSEC reasons.)
